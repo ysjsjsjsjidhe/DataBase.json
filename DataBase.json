@@ -1,62 +1,174 @@
 {
-  "6288972713476": {
-    "name": "Zio",
-    "password": "amelia"
-  },
-  "628989920006": {
-    "name": "Dimas",
-    "password": "123"
-  },
-  "6289531470531": {
-    "name": "Zyrox",
-    "password": "12"
-  },
-  "6282193720877": {
-    "name": "Jerz",
-    "password": "123"
-  },
-  "6281916639497": {
-    "name": "pamzz",
-    "password": "01"
-  },
-  "6281376180805": {
-    "name": "test",
-    "password": "01"
-  },
-  "6288292030018": {
-    "name": "Pinz",
-    "password": "12"
-  },
-  "6287898454282": {
-    "name": "Wahyu",
-    "password": "1"
-  },
-  "6285708083314": {
-    "name": "MortalJR",
-    "password": "080108"
-  },
-  "6285604206712": {
-    "name": "MortalJR",
-    "password": "080108"
-  },
-  "6283152449590": {
-    "name": "p",
-    "password": "1"
-  },
-  "6287715566235": {
-    "name": "p",
-    "password": "1"
-  },
-  "6285137409452": {
-    "name": "p",
-    "password": "1"
-  },
-  "6282144013473": {
-    "name": "Zyrox",
-    "password": "12"
-  },
-  "8013967127": {
-    "name": "zyrox",
-    "password": "1"
-  }
-}
+  "dbnya": [
+    {
+      "username": "nted",
+      "password": "Nted",
+      "nomor": "6289510019072"
+    },
+    {
+      "username": "nted",
+      "password": "nted-v2",
+      "nomor": "6282225693838"
+    },
+    {
+      "username": "HANZ",
+      "password": "jelek",
+      "nomor": "6285250441894"
+    },
+    {
+      "username": "renz",
+      "password": "renz",
+      "nomor": "6283164640189"
+    },
+    {
+      "username": "buyer",
+      "password": "buyer",
+      "nomor": "628895583603"
+    },
+    {
+      "username": "bot",
+      "password": "pribadi",
+      "nomor": "6282286323525"
+    },
+    {
+      "username": "rembo",
+      "password": "rembo",
+      "nomor": "6285184832713"
+    },
+    {
+      "username": "Raf",
+      "password": "Raf",
+      "nomor": "6283135090095"
+    },
+    {
+      "username": "buyer",
+      "password": "buyer",
+      "nomor": "62882005847827"
+    },
+    {
+      "username": "tirz",
+      "password": "xyz",
+      "nomor": "6282223446587"
+    },
+    {
+      "username": "kaxxz",
+      "password": "kaxxzpler",
+      "nomor": "62895321050350"
+    },
+    {
+      "username": "vinz",
+      "password": "vinz",
+      "nomor": "62882007377832"
+    },
+    {
+      "username": "xyra",
+      "password": "123",
+      "nomor": "6285141065216"
+    },
+    {
+      "username": "6281559585384",
+      "password": "danzty",
+      "nomor": "danzty"
+    },
+    {
+      "username": "Iqbal",
+      "password": "iqbal",
+      "nomor": "6283135082978"
+    },
+    {
+      "username": "rembo",
+      "password": "rembo",
+      "nomor": "6283184680815"
+    },
+    {
+      "username": "yan",
+      "password": "yan123",
+      "nomor": "6285719157412"
+    },
+    {
+      "username": "buyer",
+      "password": "tedz",
+      "nomor": "6282258284358"
+    },
+    {
+      "username": "Mizu",
+      "password": "Mizu",
+      "nomor": "62895352272905"
+    },
+    {
+      "username": "buyer",
+      "password": "1",
+      "nomor": "639284385285"
+    },
+    {
+      "username": "Lixx",
+      "password": "223",
+      "nomor": "628983904536"
+    },
+    {
+      "username": "122",
+      "password": "122",
+      "nomor": "6285923596743"
+    },
+    {
+      "username": "Prib",
+      "password": "Prib",
+      "nomor": "6288212177705"
+    },
+    {
+      "username": "buyer",
+      "password": "ShinnaCantik2009",
+      "nomor": "6285129813535"
+    },
+    {
+      "username": "raffwt",
+      "password": "1122",
+      "nomor": "6285924324682"
+    },
+    {
+      "username": "VIP",
+      "password": "VIP",
+      "nomor": "6283144192368"
+    },
+    {
+      "username": "pw",
+      "password": "pw",
+      "nomor": "6283151864299"
+    },
+    {
+      "username": "pw",
+      "password": "pw",
+      "nomor": "+62"
+    },
+    {
+      "username": "pw",
+      "password": "pw",
+      "nomor": "+62-831"
+    },
+    {
+      "username": "rsyatha",
+      "password": "yatha16",
+      "nomor": "08979343114"
+    },
+    {
+      "username": "renz",
+      "password": "renz1",
+      "nomor": "6285811328328"
+    },
+    {
+      "username": "hanzy",
+      "password": "hanz01",
+      "nomor": "6287846000436"
+    },
+    {
+      "username": "bot",
+      "password": "bot",
+      "nomor": "6282164075383"
+    },
+    {
+      "username": "faris",
+      "password": "faris",
+      "nomor": "6289508472073"
+    }
+  ]
+    }
